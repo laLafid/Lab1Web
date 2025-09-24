@@ -14,7 +14,9 @@ Yuk, bikin file HTML sederhana pakai Visual Studio Code (VS Code).
 
 3. **Tambah Paragraf**
     - Di bagian `<body>` tambahin paragraf:
-    ![alt text](gambar/2.png)![alt text](gambar/3.png)
+    ![alt text](gambar/2.png)
+    - Tambahkan atribut ke sana:
+    ![alt text](gambar/3.png)
 
 4. **Kasih Judul di Tiap Paragraf**
     - Tambahin heading sebelum masing-masing paragraf:
@@ -26,12 +28,14 @@ Yuk, bikin file HTML sederhana pakai Visual Studio Code (VS Code).
 
 6. **Masukkan Gambar**
     - Tambahin gambar pakai tag `<img>`:
-    ![alt text](gambar/6.png)![alt text](gambar/7.png)
+    ![alt text](gambar/6.png)
+    - Tambahkan atribut width biar tidak kebesaran :
+    ![alt text](gambar/7.png)
 
 7. **Bikin Navigasi**
     - Tambah navigasi simpel di atas:
     ![alt text](gambar/8.png)
-    *pindahin kedalam body
+    *pindahin kedalam `<body>`
     
 ## Contoh Akhir
 
